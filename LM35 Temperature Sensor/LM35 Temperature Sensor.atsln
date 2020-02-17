@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "LM35 Temperature Sensor", "LM35 Temperature Sensor\LM35 Temperature Sensor.cproj", "{39CACCA3-6EA0-42F5-A9D4-4BE7AEC9974D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39CACCA3-6EA0-42F5-A9D4-4BE7AEC9974D}.Debug|AVR.ActiveCfg = Debug|AVR
+		{39CACCA3-6EA0-42F5-A9D4-4BE7AEC9974D}.Debug|AVR.Build.0 = Debug|AVR
+		{39CACCA3-6EA0-42F5-A9D4-4BE7AEC9974D}.Release|AVR.ActiveCfg = Release|AVR
+		{39CACCA3-6EA0-42F5-A9D4-4BE7AEC9974D}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
